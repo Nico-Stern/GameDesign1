@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7972881717380097316, guid: 687f1ee72f7e1f04b932a5462a3628bd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 7972881717549943676, guid: 687f1ee72f7e1f04b932a5462a3628bd, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -53,7 +57,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7972881717549943679, guid: 687f1ee72f7e1f04b932a5462a3628bd, type: 3}
       propertyPath: m_Name
-      value: WandNormalDrehen
+      value: WandDrehen Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7972881718518695635, guid: 687f1ee72f7e1f04b932a5462a3628bd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 687f1ee72f7e1f04b932a5462a3628bd, type: 3}
