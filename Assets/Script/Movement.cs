@@ -42,14 +42,9 @@ public class Movement : MonoBehaviour
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
 
-        if (Input.GetButton("Fire3") == true)
-        {
-            movemSpeed = sprint;
-        }
-        else
-        {
+        
             movemSpeed = startSpeed;
-        }
+
 
 
         rb.drag = groundDrag;
